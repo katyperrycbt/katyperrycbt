@@ -1,7 +1,5 @@
 ### Hi there, its Tran Trong Thuc (katyperrycbt) 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on MERN stack applications.
 - 🌱 I’m currently learning Python.
 - 👯 I’m looking to collaborate on MERN Stack.
