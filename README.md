@@ -1,7 +1,7 @@
-### Hi there, its Tran Trong Thuc (katyperrycbt) 👋
+### Hi there, its Thuc (katyperrycbt) 👋
 
 - 😘 A JavaScript's Fan! 
 - 📫 How to reach me: [my email](mailto:mail@trantrongthuc.com).
-- 😄 Pronouns: /trorn trorng thurk/.
+- 😄 Pronouns: (He/him) /trorn trorng thurk/.
 - ⚡ Fun fact: I am grateful because of your visiting.
 
