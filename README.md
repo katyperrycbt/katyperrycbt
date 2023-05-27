@@ -1,4 +1,4 @@
-### Hi there, its Thuc (katyperrycbt) 👋
+### Hi there, its Thuc 👋
 
 - 😘 A JavaScript's Fan! 
 - 📫 How to reach me: [my email](mailto:mail@trantrongthuc.com).
